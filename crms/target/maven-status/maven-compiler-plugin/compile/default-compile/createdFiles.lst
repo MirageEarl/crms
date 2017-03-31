@@ -1,0 +1,11 @@
+com\vifu\crms\service\impl\UserServiceImpl.class
+com\vifu\crms\controller\Example.class
+com\vifu\crms\utils\UserContext.class
+com\vifu\crms\dao\UserDao.class
+com\vifu\crms\service\UserService.class
+com\vifu\crms\controller\UserController.class
+com\vifu\crms\model\AcctUser.class
+com\vifu\crms\dao\impl\UserDaoImpl.class
+com\vifu\crms\controller\HelloVueController.class
+com\vifu\crms\model\AcctRoles.class
+com\vifu\crms\dao\GenericDao.class
